@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Passist Mobile App</string>
+    <string name="item_list">Item List</string>
+    <string name="calendar">Calendar</string>
+</resources>
